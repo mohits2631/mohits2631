@@ -136,6 +136,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## 🏅 Certifications & Badges
+
+[![HackerRank Java Gold Badge](https://img.shields.io/badge/HackerRank-Java%20(Gold)-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/mohitsharmajewa1?badge=java&stars=5&level=3)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohits2631&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=mohits2631&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
