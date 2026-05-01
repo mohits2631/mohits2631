@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a **Computer Science Student** specializing in **Data Science**. As the **GDG On Campus Lead**, I am passionate about building scalable web applications and leveraging data-driven insights to solve complex problems.<br><br>- 🎓 **Education:** B.Tech in Computer Science with Data Science at Gautam Buddha University (2023-2027).<br>- 💡 **Selected For:** A Silicon Valley-backed startup program.<br>- 🤝 **Community:** Actively contributing to open-source via **GirlScript Summer of Code**.<br>-
+I am a **Computer Science Student** specializing in **Data Science**. As the **GDG On Campus Lead**, I am passionate about building scalable web applications and leveraging data-driven insights to solve complex problems.<br><br>- 🎓 **Education:** B.Tech in Computer Science with Data Science at Gautam Buddha University (2023-2027).<br>- 💡 **Selected For:** A Silicon Valley-backed startup program.<br>- 🤝 **Community:** Actively contributing to open-source via **GirlScript Summer of Code**.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-s-60559a213) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:innovativeideas2002@gmail.com) 
