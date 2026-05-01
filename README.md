@@ -19,6 +19,10 @@ I am a **Computer Science Student** specializing in **Data Science**. As the **G
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohits2631&icon=8&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://mohitsharmaportfolio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_My_Interactive_Portfolio-E22FE4?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
 
 
